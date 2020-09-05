@@ -8,13 +8,13 @@ The main goal:
   
   
 The program scrapes these websites:
- -n11
- -gittigidiyor
- -amazon
- -morhipo
- -epttavm
- -trendyol
- -hepsiburada
+ - n11
+ - gittigidiyor
+ - amazon
+ - morhipo
+ - epttavm
+ - trendyol
+ - hepsiburada
  
 Program uses Requests, BeautifulSoup4, and SMTPLib.
 Main file is url_seperator.py
