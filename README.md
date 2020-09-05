@@ -18,5 +18,3 @@ The program scrapes these websites:
  - trendyol
  - hepsiburada
  
-* Program uses Requests, BeautifulSoup4, and SMTPLib.
-* Main file is url_seperator.py
