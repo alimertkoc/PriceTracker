@@ -6,4 +6,15 @@ The main goal:
   You copy the link and paste it to the program. After that program asks you, what price do you want to buy it. Later, when program is runned, program scrapes the price ticket
   and if price is under than the price you wanted, it sends an mail to your e-mail address.
   
+  
+The program scrapes these websites:
+ -n11
+ -gittigidiyor
+ -amazon
+ -morhipo
+ -epttavm
+ -trendyol
+ -hepsiburada
+ 
+Program uses Requests, BeautifulSoup4, and SMTPLib.
 Main file is url_seperator.py
